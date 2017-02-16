@@ -1,0 +1,24 @@
+{
+  "name": "boilerplate",
+  "description": "Personal boilerplate",
+  "version": "1.0.0",
+  "maintainers": [
+    {
+      "name": "Alejandra Arri"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/alejandraarri/boilerplate.git"
+    }
+  ],
+  "devDependencies": {
+  },
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  ]
+}
