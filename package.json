@@ -2,23 +2,24 @@
   "name": "boilerplate",
   "description": "Personal boilerplate",
   "version": "1.0.0",
-  "maintainers": [
-    {
-      "name": "Alejandra Arri"
-    }
-  ],
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/alejandraarri/boilerplate.git"
-    }
-  ],
-  "devDependencies": {
+  "author": {
+    "name": "Alejandra Arri"
   },
-  "licenses": [
-    {
-      "name": "MIT",
-      "url": "https://opensource.org/licenses/MIT"
-    }
-  ]
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alejandraarri/boilerplate.git"
+  },
+  "devDependencies": {
+    "browser-sync": "",
+    "cssnano": "^3.5.2",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-postcss": "6.1.0",
+    "postcss-cssnext": "^2.4.0",
+    "precss": "^1.4.0",
+    "run-sequence": "^1.1.5"
+  },
+  "license": "MIT"
 }
